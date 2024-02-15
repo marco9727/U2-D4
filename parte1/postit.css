@@ -3,13 +3,14 @@
 }
 
 body {
-  display: flex;
-  justify-content: center;
+  /* display: flex; */
+  /* justify-content: center; */
   align-items: center;
-  height: 100vh;
-  width: 186vh;
+  /* height: 100vh;
+  width: 186vh; */
   margin-inline: auto;
   background-color: black;
+  margin: 100px;
 }
 
 .all-post-it {
